@@ -1,6 +1,6 @@
 # shortlinks
 
-🪝  Pemendek tautan statis
+Pemendek tautan statis
 
 ## Base URL
 
