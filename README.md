@@ -4,7 +4,7 @@ Pemendek tautan statis
 
 ## Base URL
 
-https://short.fadil.my.id/
+https://plug-in.netlify.app/
 
 ## Available Short links
 
